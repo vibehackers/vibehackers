@@ -12,6 +12,6 @@
 ### What We Do
 * **Gallery:** Showcase weekend hacks and experiments.
 * **Build in Public:** Connect repos and track progress.
-* **Vibe Jobs:** Find work that requires AI-assisted coding skills.
+* **Vibe Coding Jobs:** Find work that requires AI-assisted coding skills.
 
 [**Submit Your Project →**](https://vibehackers.io/submit)
