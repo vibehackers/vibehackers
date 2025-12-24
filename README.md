@@ -1,16 +1,17 @@
-## Hi there 👋
+# ⚡ Vibehackers
 
-<!--
-**vibehackers/vibehackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The Home of Vibe Coding & AI-First Development**
+*Where builders ship before they profit.*
 
-Here are some ideas to get you started:
+[Website](https://vibehackers.io) • [Vibe Coding Jobs](https://vibehackers.io/jobs) • [Twitter](https://twitter.com/vibehackers_io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Vibehackers** is a community for the "Messy Middle" — builders who use AI tools (Cursor, Claude, Replit) to ship projects fast. We don't care about clean code, we care about shipping.
+
+### What We Do
+* **Gallery:** Showcase weekend hacks and experiments.
+* **Build in Public:** Connect repos and track progress.
+* **Vibe Jobs:** Find work that requires AI-assisted coding skills.
+
+[**Submit Your Project →**](https://vibehackers.io/submit)
